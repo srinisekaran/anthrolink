@@ -3,7 +3,7 @@
  *  Anthrolink
  *  Srinivaas Sekaran
  *  
- *  Modified routine to accomodate transition from Teensy LC to
+ *  Modified routine to accommodate transition from Teensy LC to
  *  TI Launchpad MSP 430G2
  */
 
